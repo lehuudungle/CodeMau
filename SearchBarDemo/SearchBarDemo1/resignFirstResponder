@@ -1,0 +1,2 @@
+resignFirstResponder: hàm này sẽ thông bao cho một đối tượng từ bỏ trạng thái của nó
+Ví du: bàn phím IOS đang hiển thị thì khi gọi hàm này sẽ dismis bàn phí
